@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Credit Default Analysis"
+  title: "Credit_Default"
   navbar:
     left:
       - href: ./for_pages/index.qmd
